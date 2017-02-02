@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="13,0,41,0" name="Route.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="Borders_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Route.behavior.Borders_BehaviorDescriptor" />
+    </file>
+    <file name="Boundary_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Route.behavior.Boundary_BehaviorDescriptor" />
+    </file>
+    <file name="Forward_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Route.behavior.Forward_BehaviorDescriptor" />
+    </file>
+    <file name="Robot_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Route.behavior.Robot_BehaviorDescriptor" />
+    </file>
+    <file name="Step_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Route.behavior.Step_BehaviorDescriptor" />
+    </file>
+    <file name="Turn_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="Route.behavior.Turn_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

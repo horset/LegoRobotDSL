@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081855346303:jetbrains.mps.baseLanguage.structure.BreakStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <root nodeRef="r:8c74a312-0f7f-42cf-b949-6912fb80fbee(extendedsandbox)/316779992763702887">
+    <file name="ExtendedDimaMarty.java">
+      <node id="316779992763702887" at="12,0,13,0" concept="2" trace="robotX" />
+      <node id="316779992763702887" at="13,0,14,0" concept="2" trace="robotY" />
+      <node id="316779992763702887" at="14,0,15,0" concept="2" trace="robotHeadingDirection" />
+      <node id="316779992763702887" at="16,0,17,0" concept="2" trace="bordersX" />
+      <node id="316779992763702887" at="17,0,18,0" concept="2" trace="bordersY" />
+      <node id="316779992763702887" at="18,0,19,0" concept="2" trace="bordersWidth" />
+      <node id="316779992763702887" at="19,0,20,0" concept="2" trace="bordersHeight" />
+      <node id="316779992763702887" at="24,54,25,37" concept="1" />
+      <node id="316779992763702887" at="25,37,26,20" concept="1" />
+      <node id="316779992763702887" at="26,20,27,20" concept="1" />
+      <node id="316779992763702887" at="27,20,28,77" concept="1" />
+      <node id="316779992763702887" at="28,77,29,25" concept="1" />
+      <node id="316779992763702887" at="29,25,30,26" concept="1" />
+      <node id="316779992763702887" at="30,26,31,0" concept="6" />
+      <node id="316779992763702887" at="31,0,32,19" concept="1" />
+      <node id="316779992763702887" at="32,19,33,19" concept="1" />
+      <node id="316779992763702887" at="33,19,34,32" concept="1" />
+      <node id="316779992763702887" at="34,32,35,0" concept="6" />
+      <node id="316779992763702887" at="35,0,36,42" concept="1" />
+      <node id="316779992763702887" at="36,42,37,20" concept="1" />
+      <node id="316779992763702887" at="37,20,38,50" concept="1" />
+      <node id="316779992763702887" at="38,50,39,40" concept="1" />
+      <node id="316779992763702887" at="39,40,40,40" concept="1" />
+      <node id="316779992763702887" at="40,40,41,63" concept="1" />
+      <node id="316779992763702887" at="41,63,42,63" concept="1" />
+      <node id="316779992763702887" at="42,63,43,50" concept="1" />
+      <node id="316779992763702887" at="43,50,44,32" concept="1" />
+      <node id="316779992763702887" at="44,32,45,14" concept="1" />
+      <node id="316779992763702887" at="45,14,46,51" concept="1" />
+      <node id="316779992763702887" at="46,51,47,33" concept="1" />
+      <node id="316779992763702887" at="47,33,48,14" concept="1" />
+      <node id="316779992763702887" at="48,14,49,51" concept="1" />
+      <node id="316779992763702887" at="49,51,50,33" concept="1" />
+      <node id="316779992763702887" at="50,33,51,14" concept="1" />
+      <node id="316779992763702887" at="51,14,52,52" concept="1" />
+      <node id="316779992763702887" at="52,52,53,34" concept="1" />
+      <node id="316779992763702887" at="53,34,54,0" concept="6" />
+      <node id="316779992763702887" at="57,62,58,85" concept="1" />
+      <node id="316779992763702887" at="58,85,59,24" concept="5" />
+      <node id="316779992763702887" at="59,24,60,24" concept="5" />
+      <node id="316779992763702887" at="62,15,63,35" concept="1" />
+      <node id="316779992763702887" at="63,35,64,16" concept="0" />
+      <node id="316779992763702887" at="65,15,66,35" concept="1" />
+      <node id="316779992763702887" at="66,35,67,16" concept="0" />
+      <node id="316779992763702887" at="68,15,69,35" concept="1" />
+      <node id="316779992763702887" at="69,35,70,16" concept="0" />
+      <node id="316779992763702887" at="71,15,72,35" concept="1" />
+      <node id="316779992763702887" at="72,35,73,16" concept="0" />
+      <node id="316779992763702887" at="74,16,75,16" concept="0" />
+      <node id="316779992763702887" at="76,7,77,67" concept="1" />
+      <node id="316779992763702887" at="78,46,79,45" concept="1" />
+      <node id="316779992763702887" at="80,36,81,28" concept="1" />
+      <node id="316779992763702887" at="82,7,83,0" concept="6" />
+      <node id="316779992763702887" at="84,47,85,46" concept="1" />
+      <node id="316779992763702887" at="86,36,87,28" concept="1" />
+      <node id="316779992763702887" at="88,7,89,0" concept="6" />
+      <node id="316779992763702887" at="89,0,90,103" concept="1" />
+      <node id="316779992763702887" at="90,103,91,35" concept="1" />
+      <node id="316779992763702887" at="91,35,92,52" concept="1" />
+      <node id="316779992763702887" at="92,52,93,0" concept="6" />
+      <node id="316779992763702887" at="93,0,94,20" concept="1" />
+      <node id="316779992763702887" at="94,20,95,20" concept="1" />
+      <node id="316779992763702887" at="98,41,99,98" concept="1" />
+      <node id="316779992763702887" at="102,17,103,38" concept="1" />
+      <node id="316779992763702887" at="103,38,104,18" concept="0" />
+      <node id="316779992763702887" at="105,17,106,38" concept="1" />
+      <node id="316779992763702887" at="106,38,107,18" concept="0" />
+      <node id="316779992763702887" at="108,17,109,38" concept="1" />
+      <node id="316779992763702887" at="109,38,110,18" concept="0" />
+      <node id="316779992763702887" at="111,17,112,38" concept="1" />
+      <node id="316779992763702887" at="112,38,113,18" concept="0" />
+      <node id="316779992763702887" at="114,18,115,18" concept="0" />
+      <node id="316779992763702887" at="116,9,117,0" concept="6" />
+      <node id="316779992763702887" at="120,17,121,38" concept="1" />
+      <node id="316779992763702887" at="121,38,122,18" concept="0" />
+      <node id="316779992763702887" at="123,17,124,38" concept="1" />
+      <node id="316779992763702887" at="124,38,125,18" concept="0" />
+      <node id="316779992763702887" at="126,17,127,38" concept="1" />
+      <node id="316779992763702887" at="127,38,128,18" concept="0" />
+      <node id="316779992763702887" at="129,17,130,38" concept="1" />
+      <node id="316779992763702887" at="130,38,131,18" concept="0" />
+      <node id="316779992763702887" at="132,18,133,18" concept="0" />
+      <node id="316779992763702887" at="135,7,136,82" concept="1" />
+      <node id="316779992763702887" at="136,82,137,0" concept="6" />
+      <node id="316779992763702887" at="143,29,144,43" concept="1" />
+      <node id="316779992763702887" at="144,43,145,49" concept="1" />
+      <node id="316779992763702887" at="145,49,146,20" concept="1" />
+      <node id="316779992763702887" at="146,20,147,54" concept="1" />
+      <node id="316779992763702887" at="147,54,148,16" concept="1" />
+      <node id="316779992763702887" at="148,16,149,26" concept="1" />
+      <node id="316779992763702887" at="149,26,150,0" concept="6" />
+      <node id="316779992763702887" at="150,0,151,18" concept="1" />
+      <node id="316779992763702887" at="151,18,152,18" concept="1" />
+      <node id="316779992763702887" at="152,18,153,75" concept="1" />
+      <node id="316779992763702887" at="153,75,154,23" concept="1" />
+      <node id="316779992763702887" at="154,23,155,24" concept="1" />
+      <node id="316779992763702887" at="155,24,156,0" concept="6" />
+      <node id="316779992763702887" at="156,0,157,17" concept="1" />
+      <node id="316779992763702887" at="157,17,158,17" concept="1" />
+      <node id="316779992763702887" at="158,17,159,30" concept="1" />
+      <node id="316779992763702887" at="162,42,163,57" concept="5" />
+      <node id="316779992763702887" at="163,57,164,26" concept="1" />
+      <node id="316779992763702887" at="162,0,166,0" concept="7" trace="main#([Ljava/lang/String;)V" />
+      <node id="316779992763702887" at="77,67,82,7" concept="3" />
+      <node id="316779992763702887" at="83,0,88,7" concept="3" />
+      <node id="316779992763702887" at="60,24,76,7" concept="8" />
+      <node id="316779992763702887" at="100,31,116,9" concept="8" />
+      <node id="316779992763702887" at="118,38,134,9" concept="8" />
+      <node id="316779992763702887" at="143,0,161,0" concept="4" trace="initialize#()V" />
+      <node id="316779992763702887" at="23,0,56,0" concept="4" trace="paintComponent#(Ljava/awt/Graphics;)V" />
+      <node id="316779992763702887" at="99,98,135,7" concept="3" />
+      <node id="316779992763702887" at="57,0,97,0" concept="4" trace="moveForward#(ILjava/awt/Graphics;)V" />
+      <node id="316779992763702887" at="98,0,139,0" concept="4" trace="turn#(I)V" />
+      <node id="316779992763702887" at="21,0,141,0" concept="2" trace="panel" />
+      <scope id="316779992763702887" at="74,16,75,16" />
+      <scope id="316779992763702887" at="78,46,79,45" />
+      <scope id="316779992763702887" at="80,36,81,28" />
+      <scope id="316779992763702887" at="84,47,85,46" />
+      <scope id="316779992763702887" at="86,36,87,28" />
+      <scope id="316779992763702887" at="114,18,115,18" />
+      <scope id="316779992763702887" at="132,18,133,18" />
+      <scope id="316779992763702887" at="62,15,64,16" />
+      <scope id="316779992763702887" at="65,15,67,16" />
+      <scope id="316779992763702887" at="68,15,70,16" />
+      <scope id="316779992763702887" at="71,15,73,16" />
+      <scope id="316779992763702887" at="102,17,104,18" />
+      <scope id="316779992763702887" at="105,17,107,18" />
+      <scope id="316779992763702887" at="108,17,110,18" />
+      <scope id="316779992763702887" at="111,17,113,18" />
+      <scope id="316779992763702887" at="120,17,122,18" />
+      <scope id="316779992763702887" at="123,17,125,18" />
+      <scope id="316779992763702887" at="126,17,128,18" />
+      <scope id="316779992763702887" at="129,17,131,18" />
+      <scope id="316779992763702887" at="162,42,164,26">
+        <var name="boundary" id="316779992763702887" />
+      </scope>
+      <scope id="316779992763702887" at="162,0,166,0">
+        <var name="args" id="316779992763702887" />
+      </scope>
+      <scope id="316779992763702887" at="118,38,134,9" />
+      <scope id="316779992763702887" at="143,29,159,30" />
+      <scope id="316779992763702887" at="100,31,117,0" />
+      <scope id="316779992763702887" at="143,0,161,0" />
+      <scope id="316779992763702887" at="24,54,54,0" />
+      <scope id="316779992763702887" at="23,0,56,0">
+        <var name="graphics" id="316779992763702887" />
+      </scope>
+      <scope id="316779992763702887" at="57,62,95,20">
+        <var name="endX" id="316779992763702887" />
+        <var name="endY" id="316779992763702887" />
+      </scope>
+      <scope id="316779992763702887" at="98,41,137,0" />
+      <scope id="316779992763702887" at="57,0,97,0">
+        <var name="distance" id="316779992763702887" />
+        <var name="graphics" id="316779992763702887" />
+      </scope>
+      <scope id="316779992763702887" at="98,0,139,0">
+        <var name="turnDirection" id="316779992763702887" />
+      </scope>
+      <unit id="316779992763702887" at="21,29,140,3" name="extendedsandbox.ExtendedDimaMarty$1" />
+      <unit id="316779992763702887" at="11,0,167,0" name="extendedsandbox.ExtendedDimaMarty" />
+    </file>
+  </root>
+</debug-info>
+
