@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/ExtendedRoute/ExtendedRoute.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Route/Route.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/ExtendedSolution/ExtendedSolution.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/RouteSolution1/RouteSolution1.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
